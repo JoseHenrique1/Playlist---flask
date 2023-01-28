@@ -8,7 +8,7 @@ lingua = 'pt-BR'
 regiao = 'BR'
 
 apiurl = 'https://api.themoviedb.org/3/'
-chave = '#'
+chave = '?api_key=8ef9c4bb105f7ff666257615fa6d4f97'
 filmes = []
 
 #  --->  Usuario  <---  #
