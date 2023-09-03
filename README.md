@@ -1,5 +1,6 @@
 # Criando venv e ativando
 py -m venv venv
+<br>
 cd venv/Scripts
 activate
 
